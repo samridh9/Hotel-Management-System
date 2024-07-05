@@ -20,7 +20,3 @@ It is A Hotel Room Booking Website developed using Django Framework
   <li>Can Add New Rooms</li>
   <li>Can Add New Location</li>
 </ul>
-<<<<<<< HEAD
-
-=======
->>>>>>> ce036b027812b5b5dea4664a7cc2d0fdd93bf7b0
